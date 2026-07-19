@@ -1,4 +1,11 @@
-user_name = input("Enter your username: ")
+while True:
+        username = input("Enter your username: ").strip()
+        
+        if not username:
+            print("Username cannot be empty.")
+        else:
+            break
+    
 while True:
     try:
         age = int(input("Enter your age: "))
@@ -8,7 +15,8 @@ while True:
             break
     except ValueError:
         print("Invalid number!")
-
-print(f"Hello {user_name}!")
+              
+print(f"Hello {username}!")
 print(f"You are {age} years old.")
 
+   
