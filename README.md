@@ -1,35 +1,39 @@
 # Career2027 🚀
 
-## About Me
+My journey to becoming a programmer.
 
-Hi! I'm Francisco Bajo.
+## Progress
 
-I am a Computer Science graduate currently working as a CCTV Operator while preparing to transition into a Software Developer role.
+### ✅ Day 1 - Python Basics
+- Learned variables
+- Used `input()`
+- Converted strings to integers with `int()`
+- Used f-strings
+- Learned `try` and `except`
+- Calculated age and estimated days lived
 
-## Goal
+### ✅ Day 2 - Loops & Input Validation
+Topics learned:
+- `while True`
+- `break`
+- `try` / `except ValueError`
+- Validating user input
+- Checking empty strings with `.strip()`
 
-Become a Python Backend / AI Developer by January 2027.
+### Program Created
+The program:
+- Asks for a username
+- Rejects empty usernames
+- Asks for age
+- Rejects text (like "abc")
+- Rejects ages less than or equal to 0
+- Prints the username and age after valid input
 
-## Current Skills
+## Files
 
-- Python
-- HTML
-- Machine Learning (CNN)
-- Git
-- GitHub
+- `day01.py` - Python Basics
+- `day02.py` - Input Validation
+- `smallchallenge.py` - Username and Age Validator Challenge
 
-## Learning Roadmap
-
-- [x] Day 1 - Python Basics
-- [ ] Day 2 - Loops
-- [ ] Day 3 - Functions
-- [ ] Day 4 - Lists
-- [ ] Day 5 - Dictionaries
-- [ ] SQL
-- [ ] FastAPI
-- [ ] OpenCV
-- [ ] Machine Learning Projects
-
-## Projects
-
-More projects coming soon...
+---
+Goal: Become job-ready by 2027 💻
