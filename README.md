@@ -42,6 +42,22 @@ My goal is to become a skilled programmer through consistent daily practice, lea
 
 ---
 
+### ✅ Day 3 - Functions
+
+**Topics Learned**
+- Creating functions with `def`
+- Parameters
+- Return values
+- Input validation
+- Organizing code into reusable functions
+
+**Project**
+- Username Validator
+- Age Validator
+- Birth Year Calculator
+
+---
+
 ## 📁 Repository Structure
 
 ```
