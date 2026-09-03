@@ -60,35 +60,80 @@ My goal is to become a skilled programmer through consistent daily practice, lea
 
 ## 📁 Repository Structure
 
+---
+
+## 📅 Day 4 - C++ Basics: Variables and User Input
+
+### Topics Learned
+
+- Introduction to C++
+- Variables and data types
+- Declaring and initializing variables
+- User input using `cin`
+- Output using `cout`
+- Arithmetic operators
+- Basic calculations
+
+### Projects
+
+- Variable practice program
+- Simple calculator program
+- Practicing user input and processing data
+
+### Skills Gained
+
+- Understanding how data is stored in programs
+- Taking user input
+- Displaying formatted output
+- Performing basic calculations
+
+---
+
+## 📁 Repository Structure
+
 ```
 Career2027/
+
 │
-├── day01.py
-├── day02.py
-├── smallchallenge.py
+├── Day01/
+│ └── python files
+│
+├── Day02/
+│ └── python files
+│
+├── Day03/
+│ └── function practice
+│
+├── Day04/
+│ └── C++ practice files
+│
 └── README.md
 ```
 
+
 ---
 
-## 💻 Technologies
+# 💻 Technologies
 
 - Python 3
+- C++
 
 ---
 
-## 📈 Progress
+# 📈 Progress
 
 - ✅ Day 1 Complete
 - ✅ Day 2 Complete
+- ✅ Day 3 Complete
+- ✅ Day 4 Complete
 - ⏳ More days coming...
 
 ---
 
-## 🌟 Why I'm Doing This
+# 🌟 Why I'm Doing This
 
 I believe consistency beats talent.
 
 I'm committed to learning programming every day and using this repository as a record of my progress from beginner to professional developer.
 
-Thanks for visiting my repository!
+Thanks for visiting my repository! 🚀
