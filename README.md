@@ -58,10 +58,6 @@ My goal is to become a skilled programmer through consistent daily practice, lea
 
 ---
 
-## 📁 Repository Structure
-
----
-
 ## 📅 Day 4 - C++ Basics: Variables and User Input
 
 ### Topics Learned
